@@ -12,21 +12,7 @@
 
 ## PARTE A — PERFIL DEL ESTUDIANTE
 
-**Nivel y evidencia disponible.** La ficha de Preply, editada el 22/10/2025, señalaba A0 inicial (autoevaluación y prueba). Después, la profesora confirmó el estudio de presente, indefinido, imperfecto, futuro y varias perífrasis y comparaciones. **No se puede inferir un nivel actual preciso** ni declarar A2/B1 solo por esa lista: falta observar comprensión y producción. La referencia de partida para la planificación es **A0 evaluado en 2025 + repertorio gramatical posterior confirmado**, con diagnóstico de competencias por realizar.
-
-**Objetivos y motivaciones.** Cultura, viajes y aficiones; comunicación con familiares políticos mexicanos y hondureños, en un entorno texano con contacto con la cultura latinoamericana. Intereses declarados: lectura, cine y series, videojuegos, gastronomía, historia, moda, ciencia y cultura. El inglés es su única lengua conocida aparte del español que aprende.
-
-**Prioridades comunicativas.** Entender preguntas espontáneas, mantener turnos, reaccionar a historias, comprender expresiones frecuentes en el ámbito familiar, pedir aclaraciones y desenvolverse en restaurantes, viajes y reuniones. La expresión oral y la escucha son prioridades transversales, sin descuidar lectura y escritura.
-
-**Lagunas por comprobar, no por presumir.** Conjugaciones regulares e irregulares de presente y pasados; artículos, concordancia, pronombres, ser/estar, contrastes temporales, comprensión de velocidad natural, preguntas de seguimiento y alcance real de las comparaciones y perífrasis vistas.
-
-**Diagnóstico breve recomendado (integrable en las primeras clases):** 5 min de presentaciones y preguntas, 5 min de descripción de imagen, 5 min de relato breve en pasado y 5 min de comprensión de un diálogo mexicano/hondureño adaptado. Registrar si la dificultad es comprensión, recuperación de palabras o precisión gramatical. No convertir un error aislado en un nivel definitivo.
-
-**Nota sobre ritmo:** la ficha antigua menciona 10 clases mensuales; este roadmap **no convierte esa preferencia histórica en calendario ni presupone disponibilidad actual**. La progresión por MCER/PCIC es orientativa: completar las sesiones previstas no equivale a alcanzar automáticamente C1 o C2. Habrá que repetir, ampliar o reordenar según desempeño.
-
-### Historial confirmado en una mirada
-
-Presente; verbos reflexivos; hay/está/es; pretérito indefinido; pretérito imperfecto; futuro simple; ir a + infinitivo; estar + gerundio en presente; tener que + infinitivo; hay que + infinitivo; que como conector; comparativos más/menos … que; superlativos. **No se han indicado clases efectivamente terminadas, orden original, fechas ni materiales.**
+Francesca comenzó a estudiar español desde un nivel A0, según su autoevaluación y la prueba de Preply. Su principal objetivo es aprender el idioma por interés en la cultura, los viajes y sus aficiones, además de poder comunicarse con sus familiares políticos de Honduras y México. Vive en Texas, donde tiene contacto frecuente con la cultura latinoamericana. Su lengua materna es el inglés y sus intereses incluyen la lectura, el cine, las series, los videojuegos, la gastronomía, la historia, la moda, la ciencia y la cultura. Inicialmente, indicó que le gustaría tomar unas 10 clases al mes, preferentemente los lunes, miércoles, viernes, sábados y domingos, en horarios de mañana o primeras horas de la tarde (zona horaria Estados Unidos).
 
 ---
 
