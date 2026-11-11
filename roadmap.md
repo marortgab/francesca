@@ -1,4 +1,4 @@
-<img width="1622" height="696" alt="image" src="https://github.com/user-attachments/assets/598a2544-61c9-4bb2-b15f-5d9c9e4632cb" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/1514a1bf-f6fb-4121-b03a-ce1bea08283b" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/417235fc-0d1e-4a2b-9d58-649e7b118c27" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/2c9303b8-9938-4017-98ee-d1780a98c2ba" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/107ac570-667e-487b-9aa7-6d1c6af5bec6" /># Roadmap de español de Francesca
+# Roadmap de español de Francesca
 **Historial de contenidos confirmados + planificación curricular flexible**  
 **Estudiante:** Francesca · **Lengua inicial:** inglés · **Duración por clase:** 50 minutos · **Versión:** 11 de noviembre de 2026
 
