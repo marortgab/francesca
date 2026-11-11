@@ -4,6 +4,7 @@ import { escapeHTML as E, renderMarkdown, safeURL } from './markdown.js';
 const ROOT = new URL('./', import.meta.url);
 const q = (s, base = document) => base.querySelector(s);
 let DATA = null;
+let GENERAL_MATERIALS = [];
 let CONFIG = {};
 let route = 'inicio';
 let search = '';
@@ -13,7 +14,16 @@ const expanded = new Set([1]);
 
 const LABELS = { seen: 'VISTO', progress: 'EN PROGRESO', pending: 'PENDIENTE', review: 'REPASO PENDIENTE', unknown: 'SIN CONFIRMAR' };
 const ICONS = { seen: '✓', progress: '◌', pending: '○', review: '↻', unknown: '?' };
-const NAV = { inicio: 'Inicio', perfil: 'Mi perfil', roadmap: 'Mi roadmap', historial: 'Clases vistas', proximas: 'Próximas clases', materiales: 'Materiales', progreso: 'Mi progreso' };
+const NAV = {
+  inicio: 'Inicio',
+  perfil: 'Mi perfil',
+  roadmap: 'Mi roadmap',
+  historial: 'Clases vistas',
+  proximas: 'Próximas clases',
+  biblioteca: 'Biblioteca general',
+  materiales: 'Materiales de clase',
+  progreso: 'Mi progreso'
+};
 const pct = (n, d) => d ? Math.round(100*n/d) : 0;
 const normalize = s => String(s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 const studentName = () => String(CONFIG.studentName || '').trim();
