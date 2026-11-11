@@ -1,4 +1,4 @@
-# Roadmap de español de Francesca
+<img width="1622" height="696" alt="image" src="https://github.com/user-attachments/assets/598a2544-61c9-4bb2-b15f-5d9c9e4632cb" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/1514a1bf-f6fb-4121-b03a-ce1bea08283b" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/417235fc-0d1e-4a2b-9d58-649e7b118c27" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/2c9303b8-9938-4017-98ee-d1780a98c2ba" /><img width="1352" height="527" alt="image" src="https://github.com/user-attachments/assets/107ac570-667e-487b-9aa7-6d1c6af5bec6" /># Roadmap de español de Francesca
 **Historial de contenidos confirmados + planificación curricular flexible**  
 **Estudiante:** Francesca · **Lengua inicial:** inglés · **Duración por clase:** 50 minutos · **Versión:** 11 de noviembre de 2026
 
@@ -63,30 +63,30 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 | Clase | Tema | Gramática principal | Vocabulario principal | Estado |
 |---:|---|---|---|---|
-| 1 | Saludar y presentarse | fórmulas de saludo, me llamo, soy, de, ¿cómo te llamas? | hola, buenos días, buenas tardes, mucho gusto | ⬜ PENDIENTE |
-| 2 | Sonidos y lectura inicial | alfabeto, vocales, sílaba tónica, signos ¿? ¡! | letra, vocal, consonante, palabra | ⬜ PENDIENTE |
-| 3 | Identificar personas con ser | pronombres sujeto, ser, nacionalidades, concordancia básica | yo, tú, ella, él | ⬜ PENDIENTE |
-| 4 | Artículos, género y número | el/la/los/las, un/una, género y plural regulares | libro, mesa, silla, teléfono | ⬜ PENDIENTE |
-| 5 | Números, edades y fechas | números, tener años, días, meses, fechas básicas | uno, diez, veinte, treinta | ⬜ PENDIENTE |
-| 6 | Preguntas y respuestas esenciales | qué, quién, dónde, cómo, cuándo, interrogación y negación | qué, quién, dónde, cómo | ⬜ PENDIENTE |
+| 1 | Saludar y presentarse | fórmulas de saludo, me llamo, soy, de, ¿cómo te llamas? | hola, buenos días, buenas tardes, mucho gusto | ✅ VISTO |
+| 2 | Sonidos y lectura inicial | alfabeto, vocales, sílaba tónica, signos ¿? ¡! | letra, vocal, consonante, palabra | ✅ VISTO |
+| 3 | Identificar personas con ser | pronombres sujeto, ser, nacionalidades, concordancia básica | yo, tú, ella, él | ✅ VISTO |
+| 4 | Artículos, género y número | el/la/los/las, un/una, género y plural regulares | libro, mesa, silla, teléfono | 🔄 REPASO PENDIENTE |
+| 5 | Números, edades y fechas | números, tener años, días, meses, fechas básicas | uno, diez, veinte, treinta | ✅ VISTO |
+| 6 | Preguntas y respuestas esenciales | qué, quién, dónde, cómo, cuándo, interrogación y negación | qué, quién, dónde, cómo | ✅ VISTO |
 | 7 | Hay, está y es: identificar y localizar | hay, está, es | hay, está, es, aquí | ✅ VISTO |
-| 8 | Posesivos y pertenencia | mi, tu, su, nuestro | mi, tu, su, nuestro | ⬜ PENDIENTE |
-| 9 | Familia y relaciones cercanas | ser, tener, posesivos, sustantivos de parentesco | madre, padre, suegra, suegro | ⬜ PENDIENTE |
+| 8 | Posesivos y pertenencia | mi, tu, su, nuestro | mi, tu, su, nuestro | 🔄 REPASO PENDIENTE |
+| 9 | Familia y relaciones cercanas | ser, tener, posesivos, sustantivos de parentesco | madre, padre, suegra, suegro | 🔄 REPASO PENDIENTE |
 | 10 | Presente de indicativo: panorama | presente de indicativo mencionado globalmente | hablo, como, vivo, leo | ✅ VISTO |
-| 11 | Presente regular: -ar, -er, -ir | terminaciones regulares, sujeto expreso u omitido, negación | hablar, estudiar, cocinar, comer | ⬜ PENDIENTE |
-| 12 | Ser y estar en descripciones | ser + característica | simpático, cansada, contenta, triste | ⬜ PENDIENTE |
-| 13 | Adjetivos y concordancia | género y número del adjetivo, posición básica, muy | bonito, interesante, difícil, fácil | ⬜ PENDIENTE |
-| 14 | Demostrativos y referencia | este/esta/estos/estas, ese/esa, aquel/aquella | este, esa, aquellos, aquí | ⬜ PENDIENTE |
+| 11 | Presente regular: -ar, -er, -ir | terminaciones regulares, sujeto expreso u omitido, negación | hablar, estudiar, cocinar, comer | ✅ VISTO |
+| 12 | Ser y estar en descripciones | ser + característica | simpático, cansada, contenta, triste | ✅ VISTO |
+| 13 | Adjetivos y concordancia | género y número del adjetivo, posición básica, muy | bonito, interesante, difícil, fácil | 🔄 REPASO PENDIENTE |
+| 14 | Demostrativos y referencia | este/esta/estos/estas, ese/esa, aquel/aquella | este, esa, aquellos, aquí | 🔄 REPASO PENDIENTE |
 | 15 | Expresar gustos básicos | gustar + sustantivo o infinitivo, me/te/le, también/tampoco | me gusta, me encanta, no me gusta, preferir | ⬜ PENDIENTE |
-| 16 | La hora y los horarios | ser + hora, a las, de...a..., por la mañana | hora, minuto, temprano, tarde | ⬜ PENDIENTE |
-| 17 | El clima y la ropa | hace, está, hay + tiempo atmosférico, llevar | sol, lluvia, viento, calor | ⬜ PENDIENTE |
+| 16 | La hora y los horarios | ser + hora, a las, de...a..., por la mañana | hora, minuto, temprano, tarde | ✅ VISTO |
+| 17 | El clima y la ropa | hace, está, hay + tiempo atmosférico, llevar | sol, lluvia, viento, calor | ✅ VISTO |
 | 18 | Punto de control A0–A1 | integración de ser, presente, interrogativos, artículos y hay/está/es | saludo, familia, edad, ciudad | ⬜ PENDIENTE |
 
 #### Fichas individuales de la etapa
 
 ##### CLASE N.º 1 — Saludar y presentarse
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Saludar y presentarse.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A0 · **Tema principal:** Saludar y presentarse.
 
 **Objetivo comunicativo:** Saludar, despedirse y decir nombre y procedencia en un diálogo.
 
@@ -110,7 +110,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 2 — Sonidos y lectura inicial
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Sonidos y lectura inicial.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A0 · **Tema principal:** Sonidos y lectura inicial.
 
 **Objetivo comunicativo:** Leer en voz alta palabras frecuentes y reconocer sonidos del español.
 
@@ -134,7 +134,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 3 — Identificar personas con ser
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Identificar personas con ser.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A0 · **Tema principal:** Identificar personas con ser.
 
 **Objetivo comunicativo:** Dar datos básicos y hablar de identidad y procedencia.
 
@@ -158,7 +158,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 4 — Artículos, género y número
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Artículos, género y número.
+**Estado:** 🔄 REPASO PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Artículos, género y número.
 
 **Objetivo comunicativo:** Nombrar objetos comunes usando artículos y plurales.
 
@@ -182,7 +182,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 5 — Números, edades y fechas
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Números, edades y fechas.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A0 · **Tema principal:** Números, edades y fechas.
 
 **Objetivo comunicativo:** Dar una edad, entender números y fijar una fecha sencilla.
 
@@ -206,7 +206,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 6 — Preguntas y respuestas esenciales
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A0 · **Tema principal:** Preguntas y respuestas esenciales.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A0 · **Tema principal:** Preguntas y respuestas esenciales.
 
 **Objetivo comunicativo:** Construir preguntas y respuestas breves sin depender de traducción.
 
@@ -256,7 +256,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 8 — Posesivos y pertenencia
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Posesivos y pertenencia.
+**Estado:** 🔄 REPASO PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Posesivos y pertenencia.
 
 **Objetivo comunicativo:** Indicar de quién es un objeto y preguntar por pertenencias.
 
@@ -280,7 +280,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 9 — Familia y relaciones cercanas
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Familia y relaciones cercanas.
+**Estado:** 🔄 REPASO PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Familia y relaciones cercanas.
 
 **Objetivo comunicativo:** Presentar familiares y explicar relaciones sencillas.
 
@@ -332,7 +332,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 11 — Presente regular: -ar, -er, -ir
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Presente regular: -ar, -er, -ir.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** Presente regular: -ar, -er, -ir.
 
 **Objetivo comunicativo:** Conjugar y usar verbos regulares en situaciones frecuentes.
 
@@ -356,7 +356,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 12 — Ser y estar en descripciones
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Ser y estar en descripciones.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** Ser y estar en descripciones.
 
 **Objetivo comunicativo:** Contrastar identidad, características y estados sencillos.
 
@@ -380,7 +380,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 13 — Adjetivos y concordancia
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Adjetivos y concordancia.
+**Estado:** 🔄 REPASO PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Adjetivos y concordancia.
 
 **Objetivo comunicativo:** Describir personas, objetos y lugares con adjetivos adecuados.
 
@@ -404,7 +404,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 14 — Demostrativos y referencia
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Demostrativos y referencia.
+**Estado:** 🔄 REPASO PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Demostrativos y referencia.
 
 **Objetivo comunicativo:** Distinguir objetos cercanos y lejanos en una conversación.
 
@@ -452,7 +452,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 16 — La hora y los horarios
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** La hora y los horarios.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** La hora y los horarios.
 
 **Objetivo comunicativo:** Decir la hora, acordar momentos del día y entender un horario.
 
@@ -478,7 +478,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 17 — El clima y la ropa
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** El clima y la ropa.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** El clima y la ropa.
 
 **Objetivo comunicativo:** Describir el tiempo y elegir prendas apropiadas.
 
@@ -535,12 +535,12 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 | Clase | Tema | Gramática principal | Vocabulario principal | Estado |
 |---:|---|---|---|---|
-| 19 | Rutinas y orden de acciones | presente, primero, después, luego, al final | despertarse, desayunar, salir, almorzar | ⬜ PENDIENTE |
+| 19 | Rutinas y orden de acciones | presente, primero, después, luego, al final | despertarse, desayunar, salir, almorzar | ✅ VISTO |
 | 20 | Verbos reflexivos: panorama | verbos reflexivos mencionados globalmente | levantarse, ducharse, vestirse, acostarse | ✅ VISTO |
 | 21 | Frecuencia y hábitos | siempre, normalmente, a menudo, a veces, nunca | siempre, nunca, a veces, casi nunca | ⬜ PENDIENTE |
 | 22 | Presente: cambios vocálicos e→ie | querer, pensar, empezar, preferir | querer, preferir, pensar, empezar | ⬜ PENDIENTE |
 | 23 | Presente: cambios o→ue y e→i | poder, volver, dormir, pedir, servir | poder, volver, dormir, contar | ⬜ PENDIENTE |
-| 24 | Presente: irregularidades frecuentes | ir, tener, hacer, decir, salir, venir, poner, saber | voy, tengo, hago, digo | ⬜ PENDIENTE |
+| 24 | Presente: irregularidades frecuentes | ir, tener, hacer, decir, salir, venir, poner, saber | voy, tengo, hago, digo | ✅ VISTO |
 | 25 | Tener que + infinitivo | tener que + infinitivo, contraste elemental con querer | tener que, estudiar, trabajar, comprar | ✅ VISTO |
 | 26 | Hay que + infinitivo | hay que + infinitivo, contraste elemental con tener que | hay que, respetar, esperar, reservar | ✅ VISTO |
 | 27 | Estar + gerundio en presente | estar + gerundio de presente | estoy leyendo, estás comiendo, está jugando, viendo | ✅ VISTO |
@@ -551,8 +551,8 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 | 32 | Comprar ropa y hablar de precios | cuánto cuesta, tener, querer, demostrativos | talla, precio, descuento, probarse | ⬜ PENDIENTE |
 | 33 | Ingredientes y comidas familiares | presente, hay, gustar, artículos partitivos básicos | frijoles, tortilla, arroz, aguacate | ⬜ PENDIENTE |
 | 34 | Pedir en un restaurante | querer, me gustaría como fórmula fija, poder, para mí | menú, cuenta, mesero, camarero | ⬜ PENDIENTE |
-| 35 | Pronombres de objeto directo: introducción | lo, la, los, las | lo, la, los, las | ⬜ PENDIENTE |
-| 36 | Pronombres de objeto indirecto: introducción | me, te, le, nos, les, dar, decir, regalar | regalo, enviar, prestar, explicar | ⬜ PENDIENTE |
+| 35 | Pronombres de objeto directo: introducción | lo, la, los, las | lo, la, los, las | ✅ VISTO |
+| 36 | Pronombres de objeto indirecto: introducción | me, te, le, nos, les, dar, decir, regalar | regalo, enviar, prestar, explicar | ✅ VISTO |
 | 37 | Que como conector | que como nexo en oraciones frecuentes | creo que, digo que, sé que, pienso que | ✅ VISTO |
 | 38 | Más/menos + adjetivo + que | más/menos + adjetivo/adverbio + que | más que, menos que, grande, pequeño | ✅ VISTO |
 | 39 | Superlativos: el/la más… | el/la/los/las más + adjetivo, superlativo relativo general | el más, la más, mejor, peor | ✅ VISTO |
@@ -562,7 +562,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 19 — Rutinas y orden de acciones
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Rutinas y orden de acciones.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** Rutinas y orden de acciones.
 
 **Objetivo comunicativo:** Explicar la secuencia de un día cotidiano usando el presente.
 
@@ -684,7 +684,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 24 — Presente: irregularidades frecuentes
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Presente: irregularidades frecuentes.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** Presente: irregularidades frecuentes.
 
 **Objetivo comunicativo:** Responder con agilidad sobre actividades y obligaciones.
 
@@ -962,7 +962,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 35 — Pronombres de objeto directo: introducción
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Pronombres de objeto directo: introducción.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Pronombres de objeto directo: introducción.
 
 **Objetivo comunicativo:** Sustituir un objeto conocido para evitar repeticiones.
 
@@ -986,7 +986,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 36 — Pronombres de objeto indirecto: introducción
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Pronombres de objeto indirecto: introducción.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Pronombres de objeto indirecto: introducción.
 
 **Objetivo comunicativo:** Explicar a quién se da, cuenta o envía algo.
 
@@ -1122,11 +1122,11 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 | Clase | Tema | Gramática principal | Vocabulario principal | Estado |
 |---:|---|---|---|---|
 | 41 | Contar hechos terminados: indefinido | pretérito indefinido mencionado globalmente | ayer, anoche, fui, vi | ✅ VISTO |
-| 42 | Indefinido regular: narración precisa | terminaciones regulares del indefinido | visité, compré, estudié, comí | ⬜ PENDIENTE |
-| 43 | Indefinido irregular frecuente | ir/ser, tener, hacer, estar, poder, decir, poner | fui, tuve, hice, estuve | ⬜ PENDIENTE |
+| 42 | Indefinido regular: narración precisa | terminaciones regulares del indefinido | visité, compré, estudié, comí | ✅ VISTO |
+| 43 | Indefinido irregular frecuente | ir/ser, tener, hacer, estar, poder, decir, poner | fui, tuve, hice, estuve | ✅ VISTO |
 | 44 | Marcadores temporales del pasado | hace, desde, durante, entonces, al día siguiente | ayer, anteayer, anoche, la semana pasada | ⬜ PENDIENTE |
 | 45 | Imperfecto: panorama de recuerdos | pretérito imperfecto mencionado globalmente | era, estaba, tenía, vivía | ✅ VISTO |
-| 46 | Imperfecto: hábitos y descripciones | imperfecto regular, ser/ir/ver, soler + infinitivo como extensión | solía, cada verano, de pequeña, normalmente | ⬜ PENDIENTE |
+| 46 | Imperfecto: hábitos y descripciones | imperfecto regular, ser/ir/ver, soler + infinitivo como extensión | solía, cada verano, de pequeña, normalmente | ✅ VISTO |
 | 47 | Indefinido e imperfecto en contraste | indefinido vs. imperfecto, acción puntual y marco descriptivo | de repente, mientras, cuando, ocurrió | 🔄 REPASO PENDIENTE |
 | 48 | Historias de viajes y cine | pasados, conectores cronológicos y verbos de movimiento | salida, llegada, reserva, maleta | ⬜ PENDIENTE |
 | 49 | Pretérito perfecto compuesto | haber + participio, participios regulares y frecuentes | he visto, he leído, he probado, he viajado | ⬜ PENDIENTE |
@@ -1135,8 +1135,8 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 | 52 | Cambios y transformaciones en el pasado | ponerse, quedarse, volverse, hacerse | cambiar, crecer, mejorar, empeorar | ⬜ PENDIENTE |
 | 53 | Futuro simple: panorama | futuro simple confirmado de forma general | viajaré, iré, veré, estudiaré | ✅ VISTO |
 | 54 | Futuro simple: probabilidad y matices | futuro para predicción, probabilidad, verbos irregulares frecuentes | quizá, seguramente, tal vez, será | ⬜ PENDIENTE |
-| 55 | Comparaciones de igualdad | tan + adjetivo + como, tanto/a/os/as + nombre + como | tan, tanto, como, igual | ⬜ PENDIENTE |
-| 56 | Comparaciones irregulares y matizadas | mejor, peor, mayor, menor | mejor, peor, mayor, menor | ⬜ PENDIENTE |
+| 55 | Comparaciones de igualdad | tan + adjetivo + como, tanto/a/os/as + nombre + como | tan, tanto, como, igual | ✅ VISTO |
+| 56 | Comparaciones irregulares y matizadas | mejor, peor, mayor, menor | mejor, peor, mayor, menor | ✅ VISTO |
 | 57 | Expresar opiniones y razones | creo que, pienso que, porque, por eso | creo que, pienso que, en mi opinión, porque | ⬜ PENDIENTE |
 | 58 | Se impersonal básico | se + verbo en tercera persona | se dice, se come, se usa, se puede | ⬜ PENDIENTE |
 | 59 | Acabar de y volver a | acabar de + infinitivo, volver a + infinitivo, ya, otra vez | acabar de, volver a, recién, otra vez | ⬜ PENDIENTE |
@@ -1172,7 +1172,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 42 — Indefinido regular: narración precisa
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Indefinido regular: narración precisa.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Indefinido regular: narración precisa.
 
 **Objetivo comunicativo:** Producir formas regulares de -ar, -er, -ir en relatos cortos.
 
@@ -1196,7 +1196,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 43 — Indefinido irregular frecuente
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Indefinido irregular frecuente.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Indefinido irregular frecuente.
 
 **Objetivo comunicativo:** Contar sucesos usando verbos irregulares de alta frecuencia.
 
@@ -1270,7 +1270,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 46 — Imperfecto: hábitos y descripciones
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Imperfecto: hábitos y descripciones.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Imperfecto: hábitos y descripciones.
 
 **Objetivo comunicativo:** Diferenciar hábitos repetidos de descripciones de contexto.
 
@@ -1492,7 +1492,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 55 — Comparaciones de igualdad
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Comparaciones de igualdad.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Comparaciones de igualdad.
 
 **Objetivo comunicativo:** Comparar dos experiencias señalando semejanzas.
 
@@ -1516,7 +1516,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 56 — Comparaciones irregulares y matizadas
 
-**Estado:** ⬜ PENDIENTE · **Nivel de referencia:** A2 · **Tema principal:** Comparaciones irregulares y matizadas.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A2 · **Tema principal:** Comparaciones irregulares y matizadas.
 
 **Objetivo comunicativo:** Comparar opciones con mayor precisión.
 
