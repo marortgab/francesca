@@ -1,0 +1,15 @@
+{
+  "studentName": "Francesca",
+  "siteTitle": "Mi aventura en español",
+  "currentLevel": "Por evaluar",
+  "targetLevel": "Recorrido abierto A0–C2",
+  "welcomeMessage": "Un espacio para guardar lo aprendido y descubrir todo lo que viene.",
+  "description": "Un recorrido personalizado de español, a tu ritmo.",
+  "interfaceLanguage": "es",
+  "themeColors": {
+    "hunyadiYellow": "#E0A03F",
+    "auburn": "#9F2B2C",
+    "vanilla": "#FEF3B1",
+    "slateGray": "#355D67"
+  }
+}

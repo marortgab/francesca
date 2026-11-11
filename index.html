@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#355D67">
+  <meta name="description" content="Un espacio personal para aprender español a tu ritmo.">
+  <title>Tu aventura en español</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="app-shell" id="app-shell">
+    <div class="mobile-overlay" id="mobile-overlay" hidden></div>
+    <aside class="sidebar" id="sidebar" aria-label="Menú principal">
+      <div class="sidebar-head">
+        <div class="brand-lockup"><span class="brand-flower" aria-hidden="true">✳</span><span class="brand-text" id="brand-sidebar">hola</span></div>
+        <div class="brand-subtitle">TU RINCÓN DE ESPAÑOL <span aria-hidden="true">✦</span></div>
+      </div>
+      <div class="side-kicker">TU ESPACIO</div>
+      <nav id="navigation" class="side-nav" aria-label="Secciones">
+        <button class="nav-btn active" data-route="inicio" type="button"><span class="nav-icon" aria-hidden="true">⌂</span><span>Inicio</span></button>
+        <button class="nav-btn" data-route="perfil" type="button"><span class="nav-icon" aria-hidden="true">♧</span><span>Mi perfil</span></button>
+        <button class="nav-btn" data-route="roadmap" type="button"><span class="nav-icon" aria-hidden="true">◇</span><span>Mi roadmap</span></button>
+        <button class="nav-btn" data-route="historial" type="button"><span class="nav-icon" aria-hidden="true">✓</span><span>Clases vistas</span></button>
+        <button class="nav-btn" data-route="proximas" type="button"><span class="nav-icon" aria-hidden="true">↗</span><span>Próximas clases</span></button>
+        <button class="nav-btn" data-route="materiales" type="button"><span class="nav-icon" aria-hidden="true">▤</span><span>Materiales</span></button>
+        <button class="nav-btn" data-route="progreso" type="button"><span class="nav-icon" aria-hidden="true">◉</span><span>Mi progreso</span></button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="tiny-star" aria-hidden="true">✺</div>
+        <strong>Un pasito a la vez.</strong>
+        <p>Cada palabra nueva cuenta. ¡Sigue explorando!</p>
+        <div class="sidebar-divider"></div>
+        <div class="profile-mini"><span class="avatar" id="student-avatar">✿</span><span><strong id="student-mini-name">Estudiante</strong><small>Mi aventura en español</small></span><span class="mini-heart" aria-hidden="true">♥</span></div>
+      </div>
+    </aside>
+    <div class="main-area">
+      <header class="topbar">
+        <button class="icon-button menu-toggle" id="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false">☰</button>
+        <div class="crumbs"><span class="crumb-home" id="brand-header">hola</span><span class="crumb-divider">/</span><span id="current-section">Inicio</span></div>
+        <div class="topbar-right">
+          <span class="top-note"><span class="online-dot"></span> Aprender a tu ritmo</span>
+          <button id="help-button" class="help-button" type="button" aria-label="Información sobre el progreso">?</button>
+        </div>
+      </header>
+      <main id="view" class="view" tabindex="-1" aria-live="polite">
+        <div class="loading-state"><div class="loading-flower" aria-hidden="true">✳</div><p>Preparando tu camino de español…</p></div>
+      </main>
+      <footer class="footer"><span id="brand-footer">hola</span><span>Con cariño y muchas ganas de aprender <span aria-hidden="true">✿</span></span></footer>
+    </div>
+  </div>
+  <dialog class="lesson-dialog" id="lesson-dialog" aria-labelledby="lesson-modal-title">
+    <div id="lesson-modal-content"></div>
+  </dialog>
+  <dialog class="lightbox" id="image-dialog" aria-label="Imagen ampliada"><button type="button" class="lightbox-close" id="lightbox-close" aria-label="Cerrar imagen">×</button><img id="lightbox-image" alt=""><p id="lightbox-caption"></p></dialog>
+  <dialog class="info-dialog" id="info-dialog" aria-label="Cómo funciona el progreso"><div class="info-inner"><button type="button" class="close-chip" data-close-info>×</button><h2>¿Cómo funciona el progreso?</h2><p>Este espacio distingue los <strong>temas confirmados como vistos</strong> de los pendientes y de los repasos. Ver un tema no demuestra automáticamente que ya lo domines.</p><p>Los porcentajes se calculan del contenido de <code>roadmap.md</code>. Solo tu profesora modifica el historial oficial.</p><button class="primary-btn" data-close-info type="button">¡Entendido!</button></div></dialog>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
