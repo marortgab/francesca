@@ -242,7 +242,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 
 ##### CLASE N.º 8 — Posesivos y pertenencia
 
-**Estado:** 🔄 REPASO PENDIENTE · **Nivel de referencia:** A1 · **Tema principal:** Posesivos y pertenencia.
+**Estado:** ✅ VISTO · **Nivel de referencia:** A1 · **Tema principal:** Posesivos y pertenencia.
 
 **Objetivo comunicativo:** Indicar de quién es un objeto y preguntar por pertenencias.
 
