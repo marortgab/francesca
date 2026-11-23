@@ -56,7 +56,7 @@ Cada ficha describe **una propuesta viable de 50 minutos**. Para fichas «VISTO�
 | 5 | Números, edades y fechas | números, tener años, días, meses, fechas básicas | uno, diez, veinte, treinta | ✅ VISTO |
 | 6 | Preguntas y respuestas esenciales | qué, quién, dónde, cómo, cuándo, interrogación y negación | qué, quién, dónde, cómo | ✅ VISTO |
 | 7 | Hay, está y es: identificar y localizar | hay, está, es | hay, está, es, aquí | ✅ VISTO |
-| 8 | Posesivos y pertenencia | mi, tu, su, nuestro | mi, tu, su, nuestro | 🔄 REPASO PENDIENTE |
+| 8 | Posesivos y pertenencia | mi, tu, su, nuestro | mi, tu, su, nuestro | ✅ VISTO |
 | 9 | Familia y relaciones cercanas | ser, tener, posesivos, sustantivos de parentesco | madre, padre, suegra, suegro | 🔄 REPASO PENDIENTE |
 | 10 | Presente de indicativo: panorama | presente de indicativo mencionado globalmente | hablo, como, vivo, leo | ✅ VISTO |
 | 11 | Presente regular: -ar, -er, -ir | terminaciones regulares, sujeto expreso u omitido, negación | hablar, estudiar, cocinar, comer | ✅ VISTO |
